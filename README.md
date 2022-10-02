@@ -15,15 +15,19 @@ Install main source of project :
 After downloading project files open it in your IDE then in open Termianl:
 
 1- in Back-End
+
+```bash
 $ node server.js
+```bash
 
 it will run on Port 3000
 
 2- in Front-End
+```bash
 $npm start
+```bash
 
-
- Built With:
+## Built With:
 
 - NodeJS
 - ExpressJS
