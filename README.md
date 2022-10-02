@@ -8,6 +8,8 @@
     5.after the results are done search about your data to see that you are winner or not
 
     .........
+
+
 ## Setup
 
 Install main source of project :
@@ -17,15 +19,15 @@ After downloading project files open it in your IDE then in open Termianl:
 1- in Back-End
 
 ```bash
-$ node server.js
-```bash
-
+node sever.js 
+```
 it will run on Port 3000
 
 2- in Front-End
+
 ```bash
-$npm start
-```bash
+npm start 
+```
 
 ## Built With:
 
