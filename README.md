@@ -1,4 +1,4 @@
-##Lottery Of Pilgrims App using React & NodeJs
+# Lottery Of Pilgrims App using React & NodeJs
 
     The setup manual and how to use manual
     1. add your name ,age  in the input file
@@ -8,7 +8,6 @@
     5.after the results are done search about your data to see that you are winner or not
 
     .........
-
 ## Setup
 
 Install main source of project :
@@ -16,20 +15,15 @@ Install main source of project :
 After downloading project files open it in your IDE then in open Termianl:
 
 1- in Back-End
-
-```bash
-node server.js
-```
+$ node server.js
 
 it will run on Port 3000
 
 2- in Front-End
+$npm start
 
-```bash
-npm start
-```
 
-## Built With
+ Built With:
 
 - NodeJS
 - ExpressJS
